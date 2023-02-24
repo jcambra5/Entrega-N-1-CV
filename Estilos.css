@@ -1,0 +1,44 @@
+
+
+
+body {
+   background-color: coral;
+}
+
+img {
+   float: left;
+   margin-right: 20px;
+   padding-right: 15px;
+   padding-left:  10px;
+   
+ }
+ 
+
+
+#titulo1{
+  border: 2px;
+  padding: 4px;
+ color: blue;
+}
+div{
+   color: black;
+}
+
+h1{
+ 
+   padding: 10px;
+   margin: 10px;
+   border-bottom: 2px solid blue;
+   color: blue
+   
+}
+
+
+ h2{
+    color: black;
+ }
+
+
+ h3{
+    color: black;
+ }
